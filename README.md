@@ -2,7 +2,7 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 * :clipboard: I'm interested in Data Science
-* :money_with_wings: I’m currently working at Bank Saint Petersburg, I'm the C&B specialist
+* :money_with_wings: I’m currently working at Cherkizovo Group, I'm HR Analytics Lead
 * :mag_right:I'm fond of mathematics as it makes it easy to get through different aspects of life
 
 #### Connect with me:
